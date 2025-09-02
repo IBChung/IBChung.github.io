@@ -97,7 +97,7 @@ learning engineering and thrive at applying it for the good of society.
 # Teaching Certificates and Fellowships
 
 ## Certificate in Foundations of Teaching
-[Vew Certificate](https://credentials.illinois.edu/5699459c-a479-47f6-85f1-7d7cb1dce26a#acc.TgoO1453) - Completed at UIUC, 2025
+[View Certificate](https://credentials.illinois.edu/5699459c-a479-47f6-85f1-7d7cb1dce26a#acc.TgoO1453) - Completed at UIUC, 2025
 
 This certificate was offered by UIUC Center for Innovation in Teaching & Learning (CITL), which requires
 - Participation of teaching development workshops
@@ -107,7 +107,7 @@ This certificate was offered by UIUC Center for Innovation in Teaching & Learnin
 - Writing a teaching statement
 
 ## Mavis Future Faculty Fellows Program
-[Veiw Program Details](https://mavis.grainger.illinois.edu/) - Fall 2025 and Spring 2026
+[View Program Details](https://mavis.grainger.illinois.edu/) - Fall 2025 and Spring 2026
 
 The MF3 program, offered by UIUC, trains fellows in the responsibilities of a faculty member—teaching, research, and service. 
 It provides guidance on effective mentoring, strengthening applications, searching for positions, and preparing for interviews. 
