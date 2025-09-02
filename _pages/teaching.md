@@ -10,6 +10,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+<div class="justified">
+
 # Teaching Philosophy 
 
 > "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."  
@@ -114,3 +116,5 @@ It provides guidance on effective mentoring, strengthening applications, searchi
 Selection is based on a statement of interest, career goals, CV, and letters of endorsement and recommendation. 
 I am very privileged to have received this fellowship and training opportunity.
 
+
+</div>
