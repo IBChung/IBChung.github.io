@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+<div class="justified">
+  
 # Teaching Philosophy 
 
 > "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."  
@@ -26,7 +28,7 @@ provided. My experience has taught me the significance of guidance and I believe
 responsibility of a teacher to show students how to be independent learners.
 
 <details>
-  <summary>Read more</summary>
+<summary>Read more</summary>
 The first challenge is keeping the student’s interest in the topic or course enough to motivate 
 themselves. Proper motivation can provide students with a consistent driving force to devote 
 themselves to learning. Based on my studies, “all learning involves transfer from previous 
@@ -78,6 +80,7 @@ providing the higher education they deserve. It would be incredibly satisfying t
 learning engineering and thrive at applying it for the good of society.  
 </details>
 
+
 # Teaching Experiences
 
 ## Engineering Graphics & Design (SE 101) - Spring 2025
@@ -113,3 +116,5 @@ The MF3 program, offered by UIUC, trains fellows in the responsibilities of a fa
 It provides guidance on effective mentoring, strengthening applications, searching for positions, and preparing for interviews. 
 Selection is based on a statement of interest, career goals, CV, and letters of endorsement and recommendation. 
 I am very privileged to have received this fellowship and training opportunity.
+
+</div>
