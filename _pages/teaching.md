@@ -1,7 +1,9 @@
 ---
-layout: single
+layout: archive
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
+hide_title: true
 ---
 
 {% include base_path %}
@@ -9,8 +11,6 @@ author_profile: true
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-<div class="justified">
 
 # Teaching Philosophy 
 
@@ -41,6 +41,7 @@ otherwise when their belief is shattered. Hence, when asked a question, I typica
 asking for their thoughts and reasoning behind their conclusion. This helps the student to stay 
 focused on the matter, while I can learn how to amend their misconceptions if there are any.
 
+
 Although customizing the teaching for each student is highly effective, the difficulty lies in its 
 feasibility. For a class of substantial size, it is challenging to reach out to every student and build 
 from his or her background. Therefore, I tried to learn methods of arousing curiosity and interest 
@@ -54,6 +55,7 @@ with the students is by memorizing all their names. Although it needs some initi
 only made handing back assignments easier but also gave an impression that I care for them and 
 construct an environment where I am open to discussions. As this allows me to personalize their 
 learning, I try to apply this approach across all the courses I am involved in teaching.
+
 
 While it is important to maintain the student’s interest and enthusiasm toward the topic to 
 encourage self-learning, it is also necessary to teach them how to evaluate their learning progress. 
@@ -71,6 +73,7 @@ students to inquire about what is provided and to think further is a great addit
 to learn and it is definitely worth the effort. Furthermore, I personally experienced that some of 
 the efforts can be efficiently reduced by utilizing specialized applications such as Canvas 
 SpeedGrader or Gradescope.
+
 
 I have a passion for learning new ways of teaching and implementing them to students, 
 considering their unique style with the hope of shaping their ability to learn on their own. I would 
@@ -117,4 +120,3 @@ Selection is based on a statement of interest, career goals, CV, and letters of 
 I am very privileged to have received this fellowship and training opportunity.
 
 
-</div>
