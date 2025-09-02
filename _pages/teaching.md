@@ -11,7 +11,6 @@ author_profile: true
 {% endfor %} -->
 
 # Teaching Philosophy 
-
 > "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."  
 
 Throughout my life, teachers, leadership figures, family, and close friends have taught me how 
@@ -34,12 +33,12 @@ If you are interested, please refer to my teaching statement!
 [View my Teaching Statement (PDF)](/files/Teaching_Philosophy_Statement_v2.pdf)
 
 # Teaching Experiences
-
 ## Engineering Graphics & Design (SE 101) - Spring 2025
 - I was responsible for teaching two class with the size of 20 and 18 students, two sessions each week, two hours per session.
 - Responsibilities included preparing for teaching materials, demonstrate sketching and modeling exmaples, guide students through the process, answering questions for the assignments, and scoring/grading
 - An hour of office hour was scheduled every week
 - Served as a proctor for mid-term and final exams
+*I made it to the list of teachers ranked as excellent by their students! It's nice to know I was not the only one having fun :D [Link](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)
 
 ## Components Design (SE 410) - Fall 2024
 - I was responsible for grading and answering questions for a class of 37 students
@@ -50,7 +49,6 @@ If you are interested, please refer to my teaching statement!
 - Responsibilities included an hour of office hour every week and preparing/give a lecture for review sessions before every exam 
 
 # Teaching Certificates and Fellowships
-
 ## Certificate in Foundations of Teaching
 [View Certificate](https://credentials.illinois.edu/5699459c-a479-47f6-85f1-7d7cb1dce26a#acc.TgoO1453) - Completed at UIUC, 2025
 
