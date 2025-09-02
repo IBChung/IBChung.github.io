@@ -31,7 +31,7 @@ I pursue the following three main concepts in my teaching:
 
 If you are interested, please refer to my teaching statement!
 
-[View my Teaching Statement (PDF)](files/Teaching_Philosophy_Statement_v2.pdf)
+[View my Teaching Statement (PDF)](/files/Teaching_Philosophy_Statement_v2.pdf)
 
 # Teaching Experiences
 
