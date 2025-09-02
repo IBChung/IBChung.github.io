@@ -1,9 +1,7 @@
 ---
-layout: archive
-title: "Teaching"
+layout: single
 permalink: /teaching/
 author_profile: true
-hide_title: true
 ---
 
 {% include base_path %}
@@ -26,62 +24,14 @@ is required linearly, but I believe students who learn ‘how to learn’ would 
 provided. My experience has taught me the significance of guidance and I believe it is the 
 responsibility of a teacher to show students how to be independent learners.
 
-<details>
-<summary>Read more</summary>
-The first challenge is keeping the student’s interest in the topic or course enough to motivate 
-themselves. Proper motivation can provide students with a consistent driving force to devote 
-themselves to learning. Based on my studies, “all learning involves transfer from previous 
-experiences,” and it is important to create a connection between the topic and their prior knowledge. 
-Each student is different in his or her way based on previous experiences, and it would be ideal to 
-personalize this connection to encode the new information effectively. The contextual basis from 
-a student’s previous experience allows them to understand what is being taught better when it is 
-related to what they already know, which would be of interest. This not only allows students to 
-confirm their existing knowledge and build on top of it if it is correct but also astonishes them 
-otherwise when their belief is shattered. Hence, when asked a question, I typically respond by 
-asking for their thoughts and reasoning behind their conclusion. This helps the student to stay 
-focused on the matter, while I can learn how to amend their misconceptions if there are any.
+I pursue the following three main concepts in my teaching:
+- Proper motivation can provide students with a consistent driving force to devote themselves to learning. All learning involves transfer from previous experiences, and it is important to create a connection between the topic and their prior knowledge. Each student is different in his or her way based on previous experiences, and it would be ideal to personalize this connection to encode the new information effectively. 
+- Methods of arousing curiosity and interest for a general audience is also very important, especially for a class of large size. When a teacher is excited about what they are about to teach, students are prone to share the excitement. In addition, bringing a counterintuitive example allows students to be pleasantly surprised. One clear way to create bonds with the students is by memorizing all their names. 
+- It is also necessary to teach them how to evaluate their learning progress. Metacognition is “the ability to monitor one’s current level of understanding.” However, assessing progress by simply checking whether they got questions or problems correctly might not be sufficient for evaluation. I firmly believe training students to inquire about what is provided and to think further is a great addition to learning how to learn and it is definitely worth the effort. 
 
+If you are interested, please refer to my teaching statement!
 
-Although customizing the teaching for each student is highly effective, the difficulty lies in its 
-feasibility. For a class of substantial size, it is challenging to reach out to every student and build 
-from his or her background. Therefore, I tried to learn methods of arousing curiosity and interest 
-for a general audience. Through a consultation with a renowned faculty, I was advised several 
-methods for engaging with students and piquing their interests. When a teacher is excited about 
-what they are about to teach, students are prone to share the excitement. This required practicing 
-the lecture materials but it was one of the most straightforward ways of grabbing the attention, 
-which would be especially effective at the beginning of a class. In addition, bringing a 
-counterintuitive example allows students to be pleasantly surprised. One clear way to create bonds 
-with the students is by memorizing all their names. Although it needs some initial effort, it not 
-only made handing back assignments easier but also gave an impression that I care for them and 
-construct an environment where I am open to discussions. As this allows me to personalize their 
-learning, I try to apply this approach across all the courses I am involved in teaching.
-
-
-While it is important to maintain the student’s interest and enthusiasm toward the topic to 
-encourage self-learning, it is also necessary to teach them how to evaluate their learning progress. 
-Metacognition is “the ability to monitor one’s current level of understanding.” However, assessing 
-progress by simply checking whether they got questions or problems correctly might not be 
-sufficient for evaluation. It is difficult to be objective about one’s state and I think assignments 
-play a significant role on this note. Rather than simply scoring the assignments based on the rubric, 
-I try to comment on the process of reaching the answer whenever possible. Even when the answer 
-is correct, I attempt to add suggestions on the problem assumptions and give questions that a 
-student can think about further. Providing thoughtful feedback goes beyond offering correct 
-answers; it equips students with tools to expand their knowledge using external resources and 
-encourages them to consider problems in realistic contexts. Such activity requires a lot of time and 
-attempting to deliver them to individual students is a challenge. However, I firmly believe training 
-students to inquire about what is provided and to think further is a great addition to learning how 
-to learn and it is definitely worth the effort. Furthermore, I personally experienced that some of 
-the efforts can be efficiently reduced by utilizing specialized applications such as Canvas 
-SpeedGrader or Gradescope.
-
-
-I have a passion for learning new ways of teaching and implementing them to students, 
-considering their unique style with the hope of shaping their ability to learn on their own. I would 
-like to pass down what I have learned to future generations and help them according to their needs, 
-providing the higher education they deserve. It would be incredibly satisfying to see students enjoy 
-learning engineering and thrive at applying it for the good of society.  
-</details>
-
+[View my Teaching Statement (PDF)](files/Teaching Philosophy Statement_v2.pdf)
 
 # Teaching Experiences
 
