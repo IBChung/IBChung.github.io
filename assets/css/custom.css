@@ -1,0 +1,22 @@
+/* Justify all paragraphs in the main content */
+.justified p {
+  text-align: justify;
+  margin-bottom: 1em; /* consistent spacing between paragraphs */
+}
+
+/* Fix paragraphs inside <details> and <summary> */
+.justified details p {
+  text-align: justify;
+  margin-bottom: 1em;
+}
+
+/* Optional: Add some spacing above and below the Read More summary */
+.justified details {
+  margin: 1em 0;
+}
+
+.justified summary {
+  cursor: pointer; /* makes it clear it's clickable */
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
