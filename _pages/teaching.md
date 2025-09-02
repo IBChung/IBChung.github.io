@@ -31,12 +31,12 @@ I pursue the following three main concepts in my teaching:
 
 If you are interested, please refer to my teaching statement!
 
-[View my Teaching Statement (PDF)](files/Teaching Philosophy Statement_v2.pdf)
+[View my Teaching Statement (PDF)](files/Teaching_Philosophy_Statement_v2.pdf)
 
 # Teaching Experiences
 
 ## Engineering Graphics & Design (SE 101) - Spring 2025
-- I was responsible for teaching two class with the size of 20 and 18, two sessions each week, two hours per session.
+- I was responsible for teaching two class with the size of 20 and 18 students, two sessions each week, two hours per session.
 - Responsibilities included preparing for teaching materials, demonstrate sketching and modeling exmaples, guide students through the process, answering questions for the assignments, and scoring/grading
 - An hour of office hour was scheduled every week
 - Served as a proctor for mid-term and final exams
