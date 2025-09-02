@@ -38,6 +38,7 @@ If you are interested, please refer to my teaching statement!
 - Responsibilities included preparing for teaching materials, demonstrate sketching and modeling exmaples, guide students through the process, answering questions for the assignments, and scoring/grading
 - An hour of office hour was scheduled every week
 - Served as a proctor for mid-term and final exams
+
 *I made it to the list of teachers ranked as excellent by their students! It's nice to know I was not the only one having fun :D [Link](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)
 
 ## Components Design (SE 410) - Fall 2024
