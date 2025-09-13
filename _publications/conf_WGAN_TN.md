@@ -2,7 +2,7 @@
 title: "Generative Design for Power System Networks Using Wgan and Graph Performance Measures for Guided Generation"
 collection: publications
 category: conferences
-permalink: /publication/WGAN_TN_conf
+permalink: /publication/conf_WGAN_TN
 excerpt: 'This is a preliminary work for the transmission network dataset paper published in 2025'
 date: 2024-11-13
 venue: 'IDETC-CIE 2024'
