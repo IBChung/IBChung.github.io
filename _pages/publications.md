@@ -1,74 +1,34 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-nav: true
-nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+{% include base_path %}
 
-<!-- Bibsearch Feature -->
+<h1>Publications</h1>
 
-<p>
-  <a href="https://scholar.google.com/citations?user=FCVMWLAAAAAJ" target="_blank" rel="noopener noreferrer">
-    You can also find my articles on Google Scholar
-  </a>
-</p>
+{% assign pubs = site.publications | sort: 'year' | reverse %}
 
-<!-- Filter by text -->
-{% include bib_search.liquid %}
+{% assign last_year = "" %}
+{% for pub in pubs %}
+  {% assign current_year = pub.year %}
+  
+  {% if current_year != last_year %}
+    <h2>{{ current_year }}</h2>
+    <hr>
+    {% assign last_year = current_year %}
+  {% endif %}
 
-<!-- Filter checkboxes -->
-<div id="pub-filters" style="margin-bottom: 1em;">
-  <label style="margin-right: 1em;">
-    <input type="checkbox" id="filter-journal">
-    Journal 
-  </label>
-  <label>
-    <input type="checkbox" id="filter-conference">
-    Conference 
-  </label>
-</div>
-
-
-<!-- Paper list -->
-<div class="publications">
-  {% bibliography %}
-</div>
-
-
-<!-- Filter logic -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    function filterPublications() {
-      const showJournal = document.getElementById('filter-journal').checked;
-      const showConference = document.getElementById('filter-conference').checked;
-
-      const pubItems = document.querySelectorAll('.publications .publication-entry');
-
-      pubItems.forEach(item => {
-        const type = item.dataset.type;
-
-        if (!showJournal && !showConference) {
-          item.style.display = '';
-          return;
-        }
-        if (type === 'article') {
-          item.style.display = showJournal ? '' : 'none';
-        } else if (type === 'inproceedings') {
-          item.style.display = showConference ? '' : 'none';
-        } else {
-          item.style.display = '';
-        }
-      });
-    }
-
-    document.getElementById('filter-journal').addEventListener('change', filterPublications);
-    document.getElementById('filter-conference').addEventListener('change', filterPublications);
-
-    filterPublications();  // Initial run
-  });
-</script>
-
+  <div class="pub-entry" style="margin-bottom: 1.2em; text-align: justify;">
+    <p>
+      {% if pub.authors %}<strong>{{ pub.authors }}</strong>. {% endif %}
+      {% if pub.title %} 
+        <a href="{{ pub.link | default: '#' }}">{{ pub.title }}</a>. 
+      {% endif %}
+      {% if pub.journal %}<em>{{ pub.journal }}</em>. {% endif %}
+      {% if pub.extra %} {{ pub.extra }}. {% endif %}
+    </p>
+  </div>
+{% endfor %}
