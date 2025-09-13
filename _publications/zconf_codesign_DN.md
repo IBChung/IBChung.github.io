@@ -2,7 +2,7 @@
 title: "Disruption Management of Interdependent Power Networks Using a Data-Driven Co-Design Approach for Enhanced System Resilience"
 collection: publications
 category: conferences
-permalink: /publication/codesign_DN
+permalink: /publication/zconf_codesign_DN
 excerpt: 'This is a preliminary work for the co-design of distribution network considering design and recovery for resilience'
 date: 2025-01-23
 venue: 'IMECE 2024'
