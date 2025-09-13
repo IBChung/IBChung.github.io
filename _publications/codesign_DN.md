@@ -1,0 +1,13 @@
+---
+title: "Disruption Management of Interdependent Power Networks Using a Data-Driven Co-Design Approach for Enhanced System Resilience"
+collection: publications
+category: conferences
+permalink: /publication/codesign_DN
+excerpt: 'This is a preliminary work for the co-design of distribution network considering design and recovery for resilience'
+date: 2025-01-23
+venue: 'IMECE 2024'
+paperurl: 'https://doi.org/10.1115/IMECE2024-145487'
+citation: 'Chung, I. B., Luo, Y., & Wang, P. (2024). &quot;Disruption Management of Interdependent Power Networks Using a Data-Driven Co-Design Approach for Enhanced System Resilience.&quot; <i>In ASME International Mechanical Engineering Congress and Exposition. American Society of Mechanical Engineers.</i>. Vol. 88599, p. V001T02A015.'
+---
+
+Abstract: With growing complexities and interdependencies, critical infrastructure systems such as power grids are likely to suffer from external disturbances and be vulnerable to disruptions. Hence, it is crucial for these systems to be designed and maintained with high resilience against disruptive events. A typical system undergoes three stages of operation: the normal stage, the degradation stage, and the recovery stage. To enhance the system’s resilience, the system can be designed so that the degree of degradation is minimal or the recovery strategy is operated effectively and efficiently to restore the nominal performance. In this paper, an integrated co-design framework is presented considering interactions between system design and recovery, where the post-disruption management scheme is considered in the pre-disruption design stage. This could result in a design that can easily be subjected to better restoration. For the optimization framework, a graph convolutional network was employed to reduce the computational burden in evaluating the performance of a power system during optimization. To show the efficacy of the co-design framework, it was applied and compared to a conventional sequential approach. For the case study, a distribution network of 37 buses based on an IEEE benchmark test network was employed. Both methods were able to create better designs compared to the original. While the sequential approach reduced the total length of connection lines by 0.11 percentage points more than the co-design approach, the latter performed approximately twice as well in terms of resilience. Although there was evidence of a trade-off between the network design and resilience, the case study results have proven that the developed co-design framework can enhance the network system’s resilience while improving the design.
