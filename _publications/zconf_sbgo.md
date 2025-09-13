@@ -2,7 +2,7 @@
 title: "Surrogate Based Global Optimization Using Adaptive Switching Infill Sampling Criterion"
 collection: publications
 category: conferences
-permalink: /publication/conf_sbgo
+permalink: /publication/zconf_sbgo
 excerpt: 'This is a preliminary work for the adaptive sampling method for global optimization published in 2018'
 date: 2017-12-06
 venue: 'World Congress of Structural and Multidisciplinary Optimisation'
