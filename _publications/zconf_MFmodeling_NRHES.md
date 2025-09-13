@@ -2,7 +2,7 @@
 title: "Multi-Fidelity Modeling for Dynamic Power Control and Optimization of Nuclear-Renewable Hybrid Energy Systems"
 collection: publications
 category: conferences
-permalink: /publication/MFmodeling_NRHES
+permalink: /publication/zconf_MFmodeling_NRHES
 excerpt: 'This work presents a multi-fidelity modeling approach to tune the controller for N-R HES'
 date: 2023-11-21
 venue: 'IDETC-CIE 2023'
