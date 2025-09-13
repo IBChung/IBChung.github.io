@@ -3,6 +3,7 @@ title: "Surrogate-based global optimization using an adaptive switching infill s
 collection: publications
 category: manuscripts
 permalink: /publication/AMP_SBGO
+excerpt: 'This paper introduces a novel adaptive sampling approach using surrogate models to find the global optimum'
 date: 2018-02-20
 venue: 'Structural and Multidisciplinary Optimization'
 paperurl: 'https://link.springer.com/article/10.1007/s00158-018-1942-2'
