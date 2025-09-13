@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[My most recent academic cv is here](/files/IB_Chung_UIUC_Curriculum_Vitae_2025.pdf)
 
 Education
 ======
@@ -20,16 +21,20 @@ Work experience
 * Feb 2018 - Jun 2022: Research Engineering
   * PIDOTECH R&D Center [(Website)](https://www.pidotech.com/eng/)
   * Research and development of various technologies for multidisciplinary design optimization
-  * Duties includes: Investigate and implement methods of data-driven design, design optimization, surrogate modeling, and machine-learning
+  * Duties includes: Investigation and implementation of methods for data-driven design, design optimization, surrogate modeling, and machine-learning
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Design Optimizaiton
+  * Adaptive sampling & surrogate modeling
+  * Derivative-free/metaheuristic optimization
+  * Linear programming and stochastic programming
+* Machine Learning
+  * Graph neural networks using graph convolution
+  * Generative modeling
+* Coding
+  * Python
+  * MATLAB
 
 Publications
 ======
@@ -40,10 +45,10 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2025: Engineering Graphs & Design (SE 101)
+* Fall 2024: Components Design (SE 410)
+* Fall 2023: Decision Analysis (SE 450)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Monthly supporter of Special Olympics since August 2024
