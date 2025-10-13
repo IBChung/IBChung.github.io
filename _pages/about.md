@@ -28,5 +28,5 @@ Selected Journal/Conference Publications
 ### Design for Remanufacturing
 * [Design for Remanufacturing Framework: A Case Study of Hydraulic Manifold (JMD)](https://doi.org/10.1115/1.4067746)
 
-### Adaptive Sampling
+### Optimization Algorithm
 * [Surrogate-based Adaptive Sampling for Global Optimization (SMO)](https://doi.org/10.1007/s00158-018-1942-2)
