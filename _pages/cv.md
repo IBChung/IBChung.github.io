@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Feb 2018 - Jun 2022: Research Engineering
+* Feb 2018 - Jun 2022: Research Engineer
   * PIDOTECH R&D Center [(Website)](https://www.pidotech.com/eng/)
   * Research and development of various technologies for multidisciplinary design optimization
   * Duties includes: Investigation and implementation of methods for data-driven design, design optimization, surrogate modeling, and machine-learning
