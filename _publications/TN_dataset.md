@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/TN_dataset
 excerpt: 'This paper introduces a novel approach of designing transmission network using generative modeling (JMD Special issue on Design by Data)'
 date: 2025-02-27
-venue: 'Structural and Multidisciplinary Optimization'
+venue: 'Journal of Mechanical Design'
 paperurl: 'https://doi.org/10.1115/1.4067745'
 citation: 'Chung, I. B., & Wang, P. (2025). &quot;Dataset on Complex Power Systems: Design for Resilient Transmission Networks Using a Generative Model.&quot; <i>Journal of Mechanical Design</i>. 147(4), 041709.'
 ---
