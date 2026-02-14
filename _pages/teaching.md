@@ -32,6 +32,7 @@ If you are interested, please refer to my teaching statement!
 
 [View my Teaching Statement (PDF)](/files/Teaching_Philosophy_Statement_v2.pdf)
 
+---
 # Teaching Experiences
 ## Engineering Graphics & Design (SE 101) - Spring 2025
 - I was responsible for teaching two class with the size of 20 and 18 students, two sessions each week, two hours per session.
@@ -49,6 +50,7 @@ If you are interested, please refer to my teaching statement!
 - I was responsible for grading and answering questions for a class of 30 students
 - Responsibilities included an hour of office hour every week and preparing/give a lecture for review sessions before every exam 
 
+---
 # Teaching Certificates and Fellowships
 ## Certificate in Foundations of Teaching
 [View Certificate](https://credentials.illinois.edu/5699459c-a479-47f6-85f1-7d7cb1dce26a#acc.TgoO1453) - Completed at UIUC, 2025
