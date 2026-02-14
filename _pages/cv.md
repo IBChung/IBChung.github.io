@@ -53,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Monthly supporter of Special Olympics since August 2024
+* Served as a reviewer for conferences: IDETC2025, IMECE2024, IDETC2024
