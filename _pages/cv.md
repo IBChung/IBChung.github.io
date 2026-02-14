@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My most recent academic cv is here](/files/IB_Chung_UIUC_Curriculum_Vitae.pdf)
+[My most recent academic cv is here](/files/IB_Chung_UIUC_Curriculum_Vitae_2026.pdf)
 
 Education
 ======
