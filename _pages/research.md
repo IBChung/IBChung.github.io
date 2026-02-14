@@ -2,7 +2,9 @@
 layout: single
 permalink: /research/
 author_profile: true
+title: "Research Interests"
 ---
+**Design Optimization**, **Data-Driven Design**, Design for Resilience, Stochastic Optimization, Metaheuristic Optimization, **Complex Systems**, Network Analysis, **Machine Learning**, Surrogate Modeling, Adaptive Sampling
 
 # Data-Driven Design for System Networks
 
@@ -19,3 +21,19 @@ Using a generative model, the network information including the topology and fun
      alt="Overview of the Generative Approach Process for Networks" 
      width="700">
 
+---
+# Research Projects
+## Data-Driven Design Decision Support for Remanufacturing of High-Value Components in Industrial and Agricultural Equipment (11/2023 – 09/2025) 
+- PI: Dr. Chao Hu (University of Connecticut)
+- Project funded by REMADE Institute
+- Responsibilities: collaborating with industrial partner (John Deere) to create models for 
+evaluating economic and environmental impact of manufacturing and remanufacturing equipment, conducting 
+failure mode analysis, cost analysis, and establish framework for design for reman (DfRem); expand concept 
+to system-level with multiple parts; estimate system behavior through data-driven modeling
+
+## Multi-timescale Nuclear-Renewable Hybrid Energy Systems Operations to Improve Electricity System Resilience, Reliability, and Economic Efficiency (09/2022 – 12/2023)
+- PI: Dr. Jie Zhang (University of Texas at Dallas)
+- Project funded by DOE
+- Responsibilities: establishing an open-source repository to share the dataset and codes for resilient 
+power networks through deep generative approach for disruption management; establishing a lab setup for 
+hardware-in-the-loop (HIL) test for integrated energy system (IES) control 
