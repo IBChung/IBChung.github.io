@@ -15,6 +15,7 @@ Prior to joining UIUC, I worked at a [PIDOTECH](https://www.pidotech.com/eng/abo
 
 News
 =====
+* Mar 2026: A system-level cost modeling for remanufacturing is now [published online](https://doi.org/10.1115/1.4071043) thanks to [Mohammad Mundiwala](https://scholar.google.com/citations?user=hkh8X74AAAAJ&hl=en&oi=ao) at Uconn
 * Oct 2025: My previous paper on power-grid datasets, which I presented at the JMD webinar last July, is now available on [YouTube](https://youtu.be/DqRkb-ufxGA?si=PScTVR-ffzj910q4&t=360)
 * Oct 2025: My new [paper](https://doi.org/10.1115/1.4070127) on transmission network design against disruption is now published online
 * Aug 2025: I made it to the "List of Teachers Ranked as Excellent by Their Students" for the course I taught in Spring (SE101)
