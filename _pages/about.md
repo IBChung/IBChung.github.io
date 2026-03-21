@@ -15,6 +15,7 @@ Prior to joining UIUC, I worked at a [PIDOTECH](https://www.pidotech.com/eng/abo
 
 News
 =====
+* Mar 2026: My new [paper](https://doi.org/10.1016/j.ress.2026.112511) on data-driven design using graph neural networks for performance estimation is now published online
 * Mar 2026: A system-level cost modeling for remanufacturing is now [published online](https://doi.org/10.1115/1.4071043) thanks to [Mohammad Mundiwala](https://scholar.google.com/citations?user=hkh8X74AAAAJ&hl=en&oi=ao) at Uconn
 * Oct 2025: My previous paper on power-grid datasets, which I presented at the JMD webinar last July, is now available on [YouTube](https://youtu.be/DqRkb-ufxGA?si=PScTVR-ffzj910q4&t=360)
 * Oct 2025: My new [paper](https://doi.org/10.1115/1.4070127) on transmission network design against disruption is now published online
@@ -27,7 +28,7 @@ Selected Journal/Conference Publications
 ### Power System Design for Resilience
 * [Design of Transmission Networks under Stochastic Disruption Scenarios (JMD)](https://doi.org/10.1115/1.4070127)
 * [Design for Resilient Transmission Networks Using a Generative Model (JMD)](https://doi.org/10.1115/1.4067745)
-* [Data-Driven Co-Design Approach for Enhanced System Resilience for Distribution Networks (IMECE Conference)](https://doi.org/10.1115/IMECE2024-145487)
+* [Data-Driven Co-Design Approach for Enhanced System Resilience for Distribution Networks (RESS)](https://doi.org/10.1016/j.ress.2026.112511)
 * [Co-design optimization of combined heat and power-based microgrids (JRSE)](https://doi.org/10.1063/5.0165676)
 
 ### Design for Remanufacturing
