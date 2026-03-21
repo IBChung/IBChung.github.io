@@ -26,12 +26,13 @@ News
 Selected Journal/Conference Publications
 ======
 ### Power System Design for Resilience
+* [Data-Driven Co-Design Approach for Distribution Network Resilience Enhancement (RESS)](https://doi.org/10.1016/j.ress.2026.112511)
 * [Design of Transmission Networks under Stochastic Disruption Scenarios (JMD)](https://doi.org/10.1115/1.4070127)
 * [Design for Resilient Transmission Networks Using a Generative Model (JMD)](https://doi.org/10.1115/1.4067745)
-* [Data-Driven Co-Design Approach for Distribution Network Resilience Enhancement (RESS)](https://doi.org/10.1016/j.ress.2026.112511)
-* [Co-design optimization of combined heat and power-based microgrids (JRSE)](https://doi.org/10.1063/5.0165676)
+* [Co-Design Optimization of Combined Heat and Power-based Microgrids (JRSE)](https://doi.org/10.1063/5.0165676)
 
 ### Design for Remanufacturing
+* [Probabilistic System-Level Cost Modeling for Design for Remanufacturing (JMD)](https://doi.org/10.1115/1.4071043)
 * [Design for Remanufacturing Framework: A Case Study of Hydraulic Manifold (JMD)](https://doi.org/10.1115/1.4067746)
 
 ### Optimization Algorithm
