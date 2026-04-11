@@ -10,6 +10,20 @@ title: "Research Interests"
 
 # Data-Driven Design for System Networks
 
+## Co-design Optimization of Power Grids using Graph Neural Network Regression Model
+Design optimization using metaheuristic algorithms (derivative-free optimization) require numerous amount of evaluations. 
+As the computational cost accumualates, even for simulations that only require a few minutes can take days to converge to a solution.
+For such cases, a surrogate model that approximates the costly evaluation can come in handy.
+In this research, a co-design framework is proposed that utilizes graph neural networks for data-driven optimization along with a novel metaheuristic algorithm for graph structures.
+
+* [Control Co-design of Distribution Networks for network structure and recovery scheduling (RESS)](https://doi.org/10.1016/j.ress.2026.112511)
+
+<img src="/images/GNN_paper_overview.png" 
+     alt="Overview of the Generative Approach Process for Networks" 
+     width="700">
+
+<br>
+
 ## Generative Design of Power Grids for Resilience
 Since network data are unstructured and non-euclidean, it is difficult to apply conventional design methodologies and optimization algorithms that functions well on a numerical domain. 
 A sophisticated solution is by utilizing a graph generative model based on graph neural networks. 
