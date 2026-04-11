@@ -12,13 +12,13 @@ title: "Research Interests"
 
 ## Co-design Optimization of Power Grids using Graph Neural Network Regression Model
 Design optimization using metaheuristic algorithms (derivative-free optimization) require numerous amount of evaluations. 
-As the computational cost accumualates, even for simulations that only require a few minutes can take days to converge to a solution.
+As the computational cost accumulates, even for simulations that only require a few minutes can take days to converge to a solution.
 For such cases, a surrogate model that approximates the costly evaluation can come in handy.
 In this research, a co-design framework is proposed that utilizes graph neural networks for data-driven optimization along with a novel metaheuristic algorithm for graph structures.
 
 * [Control Co-design of Distribution Networks for network structure and recovery scheduling (RESS)](https://doi.org/10.1016/j.ress.2026.112511)
 
-<img src="/images/GNN_paper_overview.png" 
+<img src="/images/GNN_paper_overview.jpg" 
      alt="Overview of the Generative Approach Process for Networks" 
      width="700">
 
