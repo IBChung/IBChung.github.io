@@ -15,6 +15,7 @@ Prior to joining UIUC, I worked at a [PIDOTECH](https://www.pidotech.com/eng/abo
 
 News
 =====
+* April 2026: I was invited to give a talk at a seminar for the ISE department at Gyeongsang National University [Seminar Information (Korean)](/files/GNU_Seminar_Poster_260427.pdf)
 * April 2026: I have succeessfully defended my Ph.D. dissertation on the design and recovery of complex systems for resilience enhancement!
 * Mar 2026: My new [paper](https://doi.org/10.1016/j.ress.2026.112511) on data-driven design using graph neural networks for performance estimation is now published online
 * Mar 2026: A system-level cost modeling for remanufacturing is now [published online](https://doi.org/10.1115/1.4071043) thanks to [Mohammad Mundiwala](https://scholar.google.com/citations?user=hkh8X74AAAAJ&hl=en&oi=ao) at Uconn
