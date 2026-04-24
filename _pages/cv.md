@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, University of Illinois Urbana-Champaign, 2026 (expected)
+* Ph.D in Industrial Engineering, University of Illinois Urbana-Champaign, 2026 (Disseratation Defended)
 * M.S. in Mechanical Engineering, Hanyang University, 2018
 * B.S. in Mechanical Engineering, Hanyang University, 2016
 
@@ -31,10 +31,11 @@ Skills
   * Linear programming and stochastic programming
 * Machine Learning
   * Graph neural networks using graph convolution
-  * Generative modeling
+  * Generative modeling for networks
 * Coding
-  * Python
-  * MATLAB
+  * Python - Numpy, Scipy, Sklearn, PyTorch, Tensorflow, NetworkX, pandapower
+  * MATLAB - MATPOWER
+  * CAD S/W - CATIA, Autodesk Fusion 360
 
 Publications
 ======
@@ -53,4 +54,5 @@ Teaching
   
 Service and leadership
 ======
-* Served as a reviewer for conferences: IDETC2025, IMECE2024, IDETC2024
+* Served as a reviewer for conferences: IDETC2025
+* Served as a reviewer for journal paper: The Journal of Supercomputing
