@@ -15,6 +15,7 @@ Prior to joining UIUC, I worked at a [PIDOTECH](https://www.pidotech.com/eng/abo
 
 News
 =====
+* July 2026: I have completed all the requirements for my PhD and wil be joining Northwestern University as a postdoctoral scholar!
 * April 2026: I was invited to give a talk at a seminar for the ISE department at Gyeongsang National University [Seminar Information (Korean)](/files/GNU_Seminar_Poster_260427.pdf)
 * April 2026: I have succeessfully defended my Ph.D. dissertation on the design and recovery of complex systems for resilience enhancement!
 * Mar 2026: My new [paper](https://doi.org/10.1016/j.ress.2026.112511) on data-driven design using graph neural networks for performance estimation is now published online
