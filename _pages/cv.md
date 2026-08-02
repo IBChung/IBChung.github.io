@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My most recent academic cv is here](/files/IB_Chung_UIUC_Curriculum_Vitae_2026.pdf)
+[My most recent academic cv is here](/files/IB_Chung_Curriculum_Vitae.pdf)
 
 Education
 ======
@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* Aug 2026 - Current: Postdoctoral Scholar
+  * Northwestern University - Integrated DEsign Automation Laboratory [(IDEAL)](https://ideal.mech.northwestern.edu/)
 * Feb 2018 - Jun 2022: Research Engineer
   * PIDOTECH R&D Center [(Website)](https://www.pidotech.com/eng/)
   * Research and development of various technologies for multidisciplinary design optimization
@@ -25,7 +27,7 @@ Work experience
 
 Skills
 ======
-* Design Optimizaiton
+* Design Optimization
   * Adaptive sampling & surrogate modeling
   * Derivative-free/metaheuristic optimization
   * Linear programming and stochastic programming
