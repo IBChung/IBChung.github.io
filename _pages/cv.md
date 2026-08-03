@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, University of Illinois Urbana-Champaign, 2026 (Disseratation Defended)
+* Ph.D in Industrial Engineering, University of Illinois Urbana-Champaign, 2026
 * M.S. in Mechanical Engineering, Hanyang University, 2018
 * B.S. in Mechanical Engineering, Hanyang University, 2016
 
