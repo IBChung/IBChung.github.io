@@ -17,9 +17,10 @@ Prior to my Ph.D. program, I worked at [PIDOTECH](https://www.pidotech.com/eng/a
 
 News
 =====
-* July 2026: I have completed all the requirements for my PhD and will be joining Northwestern University as a postdoctoral scholar!
-* April 2026: I was invited to give a talk at a seminar for the ISE department at Gyeongsang National University [Seminar Information (Korean)](/files/GNU_Seminar_Poster_260427.pdf)
-* April 2026: I have successfully defended my Ph.D. dissertation on the design and recovery of complex systems for resilience enhancement!
+* Aug 2026: I will be attending IDETC 2026 to present my work on infrastructure network expansion using graph generative model [(View Schedule)](https://idetc.secure-platform.com/a/solicitations/280/sessiongallery/schedule/items/24127)
+* Jul 2026: I have completed all the requirements for my PhD and will be joining Northwestern University as a postdoctoral scholar!
+* Apr 2026: I was invited to give a talk at a seminar for the ISE department at Gyeongsang National University [Seminar Information (Korean)](/files/GNU_Seminar_Poster_260427.pdf)
+* Apr 2026: I have successfully defended my Ph.D. dissertation on the design and recovery of complex systems for resilience enhancement!
 * Mar 2026: My new [paper](https://doi.org/10.1016/j.ress.2026.112511) on data-driven design using graph neural networks for performance estimation is now published online
 * Mar 2026: A system-level cost modeling for remanufacturing is now [published online](https://doi.org/10.1115/1.4071043) thanks to [Mohammad Mundiwala](https://scholar.google.com/citations?user=hkh8X74AAAAJ&hl=en&oi=ao) at UConn
 * Oct 2025: My previous paper on power-grid datasets, which I presented at the JMD webinar last July, is now available on [YouTube](https://youtu.be/DqRkb-ufxGA?si=PScTVR-ffzj910q4&t=360)
