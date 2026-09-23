@@ -22,26 +22,41 @@ This section is to share interactive tools that visualize methods in machine lea
 - Supports 1D and 2D design space examples
 
 <style>
-.app-embed {
+.app-mini {
+  /* the only three numbers you need to touch */
+  --app-w: 1500px;    /* width the app renders at (keeps the wide layout) */
+  --app-h: 1100px;    /* height the app renders at */
+  --scale: 0.45;      /* 0.33 = a third, 0.5 = half */
+
+  width:  calc(var(--app-w) * var(--scale));
+  height: calc(var(--app-h) * var(--scale));
   position: relative;
-  left: 50%; right: 50%;
-  width: 100vw;
-  margin-left: -50vw; margin-right: -50vw;
+  overflow: hidden;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(128,128,128,0.35);
+  border-radius: 8px;
 }
-.app-embed iframe { display: block; width: 100%; height: 1000px; border: 0; }
-@media (max-width: 900px) { .app-embed iframe { height: 1400px; } }
+.app-mini iframe {
+  width:  var(--app-w);
+  height: var(--app-h);
+  border: 0;
+  position: absolute;
+  top: 0; left: 0;
+  transform: scale(var(--scale));
+  transform-origin: top left;
+}
 </style>
 
-<div class="app-embed">
+<div class="app-mini">
   <iframe
     src="https://interactivevisualizationtools-bayesian-optimization.streamlit.app/?embed=true&embed_options=dark_theme"
-    title="Bayesian Optimization Explorer"
-    loading="lazy"
-    allow="fullscreen"></iframe>
+    title="Graph Neural Network Explorer"
+    loading="lazy"></iframe>
 </div>
 
-Cramped? [Open it full screen](https://interactivevisualizationtools-bayesian-optimization.streamlit.app/).
-
+<p style="text-align:center">
+  <a href="https://interactivevisualizationtools-bayesian-optimization.streamlit.app/"><strong>Open the full-size version →</strong></a>
+</p>
 
 
 # Graph Neural Network (GNN)
@@ -52,22 +67,39 @@ Cramped? [Open it full screen](https://interactivevisualizationtools-bayesian-op
 - Supports undirected graphs with node features and with both node and edge features
 
 <style>
-.app-embed {
+.app-mini {
+  /* the only three numbers you need to touch */
+  --app-w: 1500px;    /* width the app renders at (keeps the wide layout) */
+  --app-h: 1100px;    /* height the app renders at */
+  --scale: 0.45;      /* 0.33 = a third, 0.5 = half */
+
+  width:  calc(var(--app-w) * var(--scale));
+  height: calc(var(--app-h) * var(--scale));
   position: relative;
-  left: 50%; right: 50%;
-  width: 100vw;
-  margin-left: -50vw; margin-right: -50vw;
+  overflow: hidden;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(128,128,128,0.35);
+  border-radius: 8px;
 }
-.app-embed iframe { display: block; width: 100%; height: 1000px; border: 0; }
-@media (max-width: 900px) { .app-embed iframe { height: 1400px; } }
+.app-mini iframe {
+  width:  var(--app-w);
+  height: var(--app-h);
+  border: 0;
+  position: absolute;
+  top: 0; left: 0;
+  transform: scale(var(--scale));
+  transform-origin: top left;
+}
 </style>
 
-<div class="app-embed">
+<div class="app-mini">
   <iframe
     src="https://interactivevisualizationtools-graph-neural-network.streamlit.app/?embed=true&embed_options=dark_theme"
     title="Graph Neural Network Explorer"
-    loading="lazy"
-    allow="fullscreen"></iframe>
+    loading="lazy"></iframe>
 </div>
 
-Cramped? [Open it full screen](https://interactivevisualizationtools-graph-neural-network.streamlit.app/).
+<p style="text-align:center">
+  <a href="https://interactivevisualizationtools-graph-neural-network.streamlit.app/"><strong>Open the full-size version →</strong></a>
+</p>
+
