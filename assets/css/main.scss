@@ -42,15 +42,15 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Make the website name stand out */
+/* Larger, more prominent site name */
 .greedy-nav .visible-links .masthead__menu-item--lg > a {
-  font-size: 28px;
-  font-weight: 800;
+  font-size: 36px !important;
+  font-weight: 800 !important;
 }
 
-/* Reserve space before the remaining navigation items */
+/* Space before the other navigation items */
 @media (min-width: 1024px) {
   .greedy-nav .visible-links .masthead__menu-item--lg {
-    min-width: 220px;
+    min-width: 240px;
   }
 }
