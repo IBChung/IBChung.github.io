@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "<span style='font-weight: 400;'><strong>De</strong>sign and <strong>Opt</strong>imization of <strong>E</strong>ngineering <strong>S</strong>ystems</span>"
 author_profile: true
 redirect_from:
   - /about/
