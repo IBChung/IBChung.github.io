@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "In-Bum Chung" # this is my website name
+title                    : "Data-driven Design and Optimization of Engineering Systems" # this is my website name
 title_separator          : "-"
 name                     : &name "In-Bum Chung"
 description              : &description "Mechanical Engineering - Postdoctoral Scholar"
