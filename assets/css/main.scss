@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Make the website name stand out */
+.greedy-nav .visible-links .masthead__menu-item--lg > a {
+  font-size: 28px;
+  font-weight: 800;
+}
+
+/* Reserve space before the remaining navigation items */
+@media (min-width: 1024px) {
+  .greedy-nav .visible-links .masthead__menu-item--lg {
+    min-width: 220px;
+  }
+}
