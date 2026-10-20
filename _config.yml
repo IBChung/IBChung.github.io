@@ -22,14 +22,14 @@ repository               : "IBChung/IBChung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_fork.png"
+  avatar           : "DCS_2242.jpg"
   name             : "In-Bum Chung"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Scholar"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
   uri              : # URL
-  email            : "inbumbc2@gmail.com" 
+  email            : "inbum.chung@northwestern.edu" 
 
   # Academic websites
   academia         : # URL
