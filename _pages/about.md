@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='font-weight: 400;'><strong>De</strong>sign and <strong>Opt</strong>imization of <strong>E</strong>ngineering <strong>S</strong>ystems</span>"
+title: "<span style='font-weight: 400;'><strong>D</strong>esign and <strong>OP</strong>timization of <strong>E</strong>ngineering Systems</span>"
 author_profile: true
 redirect_from:
   - /about/
