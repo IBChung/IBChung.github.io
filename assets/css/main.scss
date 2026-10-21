@@ -42,13 +42,24 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Larger, more prominent site name */
+/* Overall title size */
 .greedy-nav .visible-links .masthead__menu-item--lg > a {
-  font-size: 36px !important;
-  font-weight: 800 !important;
+  font-size: 28px !important;
+  font-weight: 400 !important;
+  white-space: nowrap;
 }
 
-/* Space before the other navigation items */
+/* Heavy DOPE */
+.brand-dope {
+  font-weight: 900;
+}
+
+/* Regular Research */
+.brand-research {
+  font-weight: 400;
+}
+
+/* Reserve space before the other navigation links on desktop */
 @media (min-width: 1024px) {
   .greedy-nav .visible-links .masthead__menu-item--lg {
     min-width: 240px;
