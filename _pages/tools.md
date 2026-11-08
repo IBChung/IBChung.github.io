@@ -22,40 +22,29 @@ This section is to share interactive tools that visualize methods in machine lea
 - Bayesian Optimization is a derivative-free algorithm that does NOT use metaheuristics (separate app available below)
 
 <style>
-.app-mini {
-  /* the only three numbers you need to touch */
-  --app-w: 1500px;    /* width the app renders at (keeps the wide layout) */
-  --app-h: 1100px;    /* height the app renders at */
-  --scale: 0.45;      /* 0.33 = a third, 0.5 = half */
-
-  width:  calc(var(--app-w) * var(--scale));
-  height: calc(var(--app-h) * var(--scale));
-  position: relative;
-  overflow: hidden;
-  margin: 1.5rem auto;
-  border: 1px solid rgba(128,128,128,0.35);
-  border-radius: 8px;
+.app-preview {
+  display: block;
+  margin: 1.5rem 0 0.5rem;
+  cursor: zoom-in;
 }
-.app-mini iframe {
-  width:  var(--app-w);
-  height: var(--app-h);
-  border: 0;
-  position: absolute;
-  top: 0; left: 0;
-  transform: scale(var(--scale));
-  transform-origin: top left;
+
+.app-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 8px;
 }
 </style>
 
-<div class="app-mini">
-  <iframe
-    src="https://interactivevisualizationtools-optimization-algorithms.streamlit.app/?embed=true&embed_options=dark_theme"
-    title="Optimization Algorithm Explorer"
-    loading="lazy"></iframe>
-</div>
+<a class="app-preview" href="{{ '/images/Opt_tool_example.png' | relative_url }}">
+  <img src="{{ '/images/Opt_tool_example.png' | relative_url }}"
+       alt="Example of the Optimization Algorithms Explorer -- 2D Genetic Algorithm">
+</a>
 
 <p style="text-align:center">
-  <a href="https://interactivevisualizationtools-optimization-algorithms.streamlit.app/"><strong>Open the full-size version →</strong></a>
+  <a href="https://interactivevisualizationtools-optimization-algorithms.streamlit.app/"><strong>Open app (may be asleep) →</strong></a>
 </p>
 
 # Bayesian Optimization (BO)
@@ -65,41 +54,14 @@ This section is to share interactive tools that visualize methods in machine lea
 - Students can see how different GP and BO parameters affect the optimization iterations
 - Supports 1D and 2D design space examples
 
-<style>
-.app-mini {
-  /* the only three numbers you need to touch */
-  --app-w: 1500px;    /* width the app renders at (keeps the wide layout) */
-  --app-h: 1100px;    /* height the app renders at */
-  --scale: 0.45;      /* 0.33 = a third, 0.5 = half */
 
-  width:  calc(var(--app-w) * var(--scale));
-  height: calc(var(--app-h) * var(--scale));
-  position: relative;
-  overflow: hidden;
-  margin: 1.5rem auto;
-  border: 1px solid rgba(128,128,128,0.35);
-  border-radius: 8px;
-}
-.app-mini iframe {
-  width:  var(--app-w);
-  height: var(--app-h);
-  border: 0;
-  position: absolute;
-  top: 0; left: 0;
-  transform: scale(var(--scale));
-  transform-origin: top left;
-}
-</style>
-
-<div class="app-mini">
-  <iframe
-    src="https://interactivevisualizationtools-bayesian-optimization.streamlit.app/?embed=true&embed_options=dark_theme"
-    title="Bayesian Optimization Explorer"
-    loading="lazy"></iframe>
-</div>
+<a class="app-preview" href="{{ '/images/BO_tool_example.png' | relative_url }}">
+  <img src="{{ '/images/BO_tool_example.png' | relative_url }}"
+       alt="Example of the Bayesian Optimization Explorer -- 1D GP-based BO">
+</a>
 
 <p style="text-align:center">
-  <a href="https://interactivevisualizationtools-bayesian-optimization.streamlit.app/"><strong>Open the full-size version →</strong></a>
+  <a href="https://interactivevisualizationtools-bayesian-optimization.streamlit.app/"><strong>Open app (may be asleep) →</strong></a>
 </p>
 
 
@@ -110,40 +72,13 @@ This section is to share interactive tools that visualize methods in machine lea
 - Students can see how the different operators affect the final feature space of the network
 - Supports undirected graphs with node features and with both node and edge features
 
-<style>
-.app-mini {
-  /* the only three numbers you need to touch */
-  --app-w: 1500px;    /* width the app renders at (keeps the wide layout) */
-  --app-h: 1100px;    /* height the app renders at */
-  --scale: 0.45;      /* 0.33 = a third, 0.5 = half */
 
-  width:  calc(var(--app-w) * var(--scale));
-  height: calc(var(--app-h) * var(--scale));
-  position: relative;
-  overflow: hidden;
-  margin: 1.5rem auto;
-  border: 1px solid rgba(128,128,128,0.35);
-  border-radius: 8px;
-}
-.app-mini iframe {
-  width:  var(--app-w);
-  height: var(--app-h);
-  border: 0;
-  position: absolute;
-  top: 0; left: 0;
-  transform: scale(var(--scale));
-  transform-origin: top left;
-}
-</style>
-
-<div class="app-mini">
-  <iframe
-    src="https://interactivevisualizationtools-graph-neural-network.streamlit.app/?embed=true&embed_options=dark_theme"
-    title="Graph Neural Network Explorer"
-    loading="lazy"></iframe>
-</div>
+<a class="app-preview" href="{{ '/images/GNN_tool_example.png' | relative_url }}">
+  <img src="{{ '/images/GNN_tool_example.png' | relative_url }}"
+       alt="Example of the Graph Neural Network Explorer -- Summation Aggregation">
+</a>
 
 <p style="text-align:center">
-  <a href="https://interactivevisualizationtools-graph-neural-network.streamlit.app/"><strong>Open the full-size version →</strong></a>
+  <a href="https://interactivevisualizationtools-graph-neural-network.streamlit.app/"><strong>Open app (may be asleep) →</strong></a>
 </p>
 
