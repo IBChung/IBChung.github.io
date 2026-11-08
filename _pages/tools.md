@@ -139,7 +139,6 @@ This section is to share interactive tools that visualize methods in machine lea
 
   document.querySelectorAll('a.app-preview').forEach(link => {
     link.addEventListener('click', event => {
-      // Preserve Ctrl-click / Cmd-click to open the PNG in a new tab.
       if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
 
       event.preventDefault();
