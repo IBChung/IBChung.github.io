@@ -82,3 +82,73 @@ This section is to share interactive tools that visualize methods in machine lea
   <a href="https://interactivevisualizationtools-graph-neural-network.streamlit.app/"><strong>Open app (may be asleep) →</strong></a>
 </p>
 
+
+
+
+
+<style>
+  #app-lightbox {
+    box-sizing: border-box;
+    width: fit-content;
+    max-width: 96vw;
+    max-height: 94vh;
+    padding: 0.75rem;
+    border: 1px solid #555;
+    border-radius: 10px;
+    background: #171717;
+    color: white;
+  }
+
+  #app-lightbox::backdrop {
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  #app-lightbox button {
+    display: block;
+    margin: 0 0 0.6rem auto;
+    padding: 0.35rem 0.8rem;
+    border: 1px solid #888;
+    border-radius: 5px;
+    background: #292929;
+    color: white;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  #app-lightbox img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 78vh;
+    margin: 0 auto;
+  }
+</style>
+
+<dialog id="app-lightbox" aria-label="Enlarged app screenshot">
+  <button type="button" autofocus>Close ×</button>
+  <img alt="">
+</dialog>
+
+<script>
+(() => {
+  const viewer = document.getElementById('app-lightbox');
+  if (!viewer || typeof viewer.showModal !== 'function') return;
+
+  const image = viewer.querySelector('img');
+
+  document.querySelectorAll('a.app-preview').forEach(link => {
+    link.addEventListener('click', event => {
+      // Preserve Ctrl-click / Cmd-click to open the PNG in a new tab.
+      if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+
+      event.preventDefault();
+      image.src = link.href;
+      image.alt = link.querySelector('img').alt;
+      viewer.showModal();
+    });
+  });
+
+  viewer.querySelector('button').addEventListener('click', () => viewer.close());
+})();
+</script>
