@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Tools"
 permalink: /tools/
 author_profile: true
 ---
@@ -10,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Interactive Web App Tools 
+# Interactive Web Tools 
 
 This section is to share interactive tools that visualize methods in machine learning to reduce the barrier to understanding the core concepts. Details on the tools are available in my [GitHub repository](https://github.com/IBChung/interactive_visualization_tools)
 
