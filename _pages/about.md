@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='font-weight: 400;'><strong>D</strong>esign <strong>OP</strong>timization using <strong>A</strong>I and <strong>M</strong>achine-<strong>l</strong>earning for <strong>N</strong>etwork <strong>E</strong>ngineering Systems</span>"
+title: "<span style='font-weight: 400;'><strong>D</strong>esign <strong>OP</strong>timization using <strong>A</strong>I and <strong>M</strong>achine-<strong>l</strong>earning for <strong>N</strong>etworked <strong>E</strong>ngineering Systems</span>"
 author_profile: true
 redirect_from:
   - /about/
