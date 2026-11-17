@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching Statement"
 permalink: /teaching/
 author_profile: true
 ---
@@ -10,8 +10,7 @@ author_profile: true
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-# Teaching Philosophy 
+ 
 > "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."  
 
 Throughout my life, teachers, leadership figures, family, and close friends have taught me how 
